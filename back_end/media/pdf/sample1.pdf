@@ -1,0 +1,98 @@
+%PDF-1.3
+1 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 3 0 R ]
+>>
+endobj
+2 0 obj
+<<
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 13 0 R
+/F3 16 0 R
+/F4 20 0 R
+/F15ce4c762-9a08-4a11-bc04-f654277287a9 <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+/F2277f4fb1-ba7d-41e2-a1c0-320e71234a67 <<
+/BaseFont /HeiseiKakuGo-W5
+/DescendantFonts [ <<
+/BaseFont /HeiseiKakuGo-W5
+/CIDSystemInfo <<
+/Ordering (Japan1)
+/Registry (Adobe)
+/Supplement 2
+>>
+/DW 1000
+/FontDescriptor <<
+/Ascent 752
+/CapHeight 737
+/Descent -221
+/Flags 4
+/FontBBox [ -92 -250 1010 922 ]
+/FontName /HeiseKakuGo-W5
+/ItalicAngle 0
+/StemH 0
+/StemV 114
+/Type /FontDescriptor
+/XHeight 553
+>>
+/Subtype /CIDFontType0
+/Type /Font
+/W [ 1 [ 277 305 500 668 668 906 727 305 445 445 508 668 305 379 305 539 ] 17 26 668 27 [ 305 305 668 668 668 566 871 727 637 652 699 574 555 676 687 242 492 664 582 789 707 734 582 734 605 605 641 668 727 945 609 609 574 445 668 445 668 668 590 555 609 547 602 574 391 609 582 234 277 539 234 895 582 605 602 602 387 508 441 582 562 781 531 570 555 449 246 449 668 ] 231 632 500 ]
+>> ]
+/Encoding /UniJIS-UCS2-H
+/Name /F2
+/Subtype /Type0
+/Type /Font
+>>
+>>
+/XObject <<
+/Image19 28 0 R
+/Image21 30 0 R
+/Image23 32 0 R
+/Image25 34 0 R
+/Image27 36 0 R
+/Image29 38 0 R
+/Image31 40 0 R
+/Image33 42 0 R
+/Image35 44 0 R
+>>
+/ProcSet [ /Text /ImageI /ImageB /PDF /ImageC ]
+>>
+/MediaBox [ 0 0 595.32 841.92 ]
+/Contents 46 0 R
+/Group <<
+/Type /Group
+/S /Transparency
+/CS /DeviceRGB
+>>
+/Tabs /S
+/Annots [ ]
+>>
+endobj
+4 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont 
